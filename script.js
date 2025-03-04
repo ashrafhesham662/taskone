@@ -1,25 +1,4 @@
-// const arrayTask = ["javascript", "html", "css" ];
-// const allTask = document.querySelector(".all-task");
-// const daynamicTask = document.querySelector(".api-tasks");
 
-// allTask.textContent =arrayTask.length; // لعرض المهام الموجودة بشكل تلقائئ
-// const btnSubmit = document
-// .querySelector(".btn-send-task")
-// .addEventListener("click", (eo) => {
-//     const form = document.querySelector(".forms-tasks");
-//     const inputTask = document.querySelector(".input-task").value;
-//     eo.preventDefault();
-
-//     if(inputTask > arrayTask.length - 1 || inputTask < 0){
-//         daynamicTask.textContent = "soory i cant view ant task";
-//         inputTask.value = "";
-
-//     } else{
-//         daynamicTask.textContent = arrayTask[inputTask];
-
-//     }
-
-//   });
 
 const arrayTasks = [
   "Learn Html",
