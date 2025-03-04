@@ -89,3 +89,23 @@ span {
 	
 
 }
+
+
+
+footer{
+	color: #123;
+	text-align: center;
+	font-family: "Cairo", sans-serif;
+	font-size: 18px;
+		
+}
+
+a{
+	text-decoration: none;
+	color: #123;
+	cursor: pointer;
+}
+
+.link{
+	color: #ff0000;
+}
